@@ -37,7 +37,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 
-Index.html
+## Index.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -74,7 +74,7 @@ Index.html
 
 ```
 
-Style.css
+## Style.css
 ```
 body {
   font-family: Arial, sans-serif;
@@ -194,7 +194,7 @@ h1 {
 
 ```
 
-Script.js
+## Script.js
 ```
 const taskInput = document.getElementById("taskInput");
 const addBtn = document.getElementById("addBtn");
